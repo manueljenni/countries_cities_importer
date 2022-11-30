@@ -6,3 +6,6 @@ This is a simple NodeJS app that can be used to access
 
 This makes it easy to use those NPM packages for example in a Java environment. It also is
 possible to easily update the versions.
+
+## How to use
+Run *node index.js* to start the server.
