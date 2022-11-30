@@ -1,0 +1,16 @@
+{
+  "name": "travelapp-importer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cities.json": "^1.1.14",
+    "countries-list": "^2.6.1",
+    "express": "^4.18.2"
+  }
+}
